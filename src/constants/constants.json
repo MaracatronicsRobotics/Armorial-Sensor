@@ -1,0 +1,6 @@
+{
+    "GRPCAddress": "localhost",
+    "GRPCPort": "50053",
+    "SimAddress": "127.0.0.1",
+    "teamColor": "yellow"
+}
